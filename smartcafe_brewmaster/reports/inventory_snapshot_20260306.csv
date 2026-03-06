@@ -1,0 +1,4 @@
+sku,item_name,quantity,unit,reorder_level,status,updated_at
+BEAN-001,Ethiopian Beans,500,grams,100,OK,2026-03-06T07:50:13.637489
+BEAN-003,Kenyan Beans,400,grams,80,OK,2026-03-06T08:26:46.834585
+BEAN-ETH,Ethiopian Beans,300,grams,50,OK,2026-03-06T07:51:39.634915

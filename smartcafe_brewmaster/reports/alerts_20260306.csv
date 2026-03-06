@@ -1,0 +1,2 @@
+alert_type,brew_id,severity,message,created_at
+overbrew,1,warn,OVERBREW ALERT: Brew Espresso - Brew exceeded scheduled duration + 0.3min grace,2026-03-06T08:27:10.804855

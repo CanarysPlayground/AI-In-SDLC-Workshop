@@ -1,0 +1,4 @@
+recipe_name,start_time,scheduled_duration_min,target_temp_c,status,event_count,alert_count
+Espresso,2026-03-06T08:26:57.757288,3,92.5,scheduled,0,0
+Espresso,2026-03-06T07:51:39.772175,3,92.0,scheduled,0,0
+Espresso,2026-03-06T07:50:22.494680,3,92.5,brewing,0,1
